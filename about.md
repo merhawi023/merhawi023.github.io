@@ -4,12 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
+just some dude that likes RCEs , but then again who doesn't
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+intrested in PHP, embeded systems,c/c++ and much more .. anything vulnerability related really 
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+feel free to hit me up on twitter for any questions or suggestions
