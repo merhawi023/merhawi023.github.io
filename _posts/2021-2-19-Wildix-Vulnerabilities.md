@@ -3,6 +3,7 @@ layout: post
 title: wildix vulnerabilities
 ---
 
+some vulnerabilities on wildix pbx 
 
 According to www.wildix.com
 
