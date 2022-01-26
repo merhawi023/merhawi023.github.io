@@ -1,7 +1,10 @@
+---
 layout: post
 title: "wildix wildix west"
 date: 2020-06-25 
 categories: vulnerabilities
+---
+
 # wildix vulnerabilities
 
 some vulnerabilities on wildix pbx
